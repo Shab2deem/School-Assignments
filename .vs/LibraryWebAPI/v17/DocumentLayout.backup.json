@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{398E2FF9-337C-4E24-BB95-197BB493934A}|LibraryWebAPI\\LibraryWebAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\librarywebapi\\librarywebapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398E2FF9-337C-4E24-BB95-197BB493934A}|LibraryWebAPI\\LibraryWebAPI.csproj|solutionrelative:librarywebapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398E2FF9-337C-4E24-BB95-197BB493934A}|LibraryWebAPI\\LibraryWebAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\librarywebapi\\librarywebapi\\dbmodel\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398E2FF9-337C-4E24-BB95-197BB493934A}|LibraryWebAPI\\LibraryWebAPI.csproj|solutionrelative:librarywebapi\\dbmodel\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398E2FF9-337C-4E24-BB95-197BB493934A}|LibraryWebAPI\\LibraryWebAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\librarywebapi\\librarywebapi\\models\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398E2FF9-337C-4E24-BB95-197BB493934A}|LibraryWebAPI\\LibraryWebAPI.csproj|solutionrelative:librarywebapi\\models\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398E2FF9-337C-4E24-BB95-197BB493934A}|LibraryWebAPI\\LibraryWebAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\librarywebapi\\librarywebapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398E2FF9-337C-4E24-BB95-197BB493934A}|LibraryWebAPI\\LibraryWebAPI.csproj|solutionrelative:librarywebapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398E2FF9-337C-4E24-BB95-197BB493934A}|LibraryWebAPI\\LibraryWebAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\librarywebapi\\librarywebapi\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398E2FF9-337C-4E24-BB95-197BB493934A}|LibraryWebAPI\\LibraryWebAPI.csproj|solutionrelative:librarywebapi\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398E2FF9-337C-4E24-BB95-197BB493934A}|LibraryWebAPI\\LibraryWebAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\librarywebapi\\librarywebapi\\dtos\\booksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398E2FF9-337C-4E24-BB95-197BB493934A}|LibraryWebAPI\\LibraryWebAPI.csproj|solutionrelative:librarywebapi\\dtos\\booksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398E2FF9-337C-4E24-BB95-197BB493934A}|LibraryWebAPI\\LibraryWebAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\librarywebapi\\librarywebapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398E2FF9-337C-4E24-BB95-197BB493934A}|LibraryWebAPI\\LibraryWebAPI.csproj|solutionrelative:librarywebapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398E2FF9-337C-4E24-BB95-197BB493934A}|LibraryWebAPI\\LibraryWebAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\librarywebapi\\librarywebapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398E2FF9-337C-4E24-BB95-197BB493934A}|LibraryWebAPI\\LibraryWebAPI.csproj|solutionrelative:librarywebapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398E2FF9-337C-4E24-BB95-197BB493934A}|LibraryWebAPI\\LibraryWebAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\librarywebapi\\librarywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398E2FF9-337C-4E24-BB95-197BB493934A}|LibraryWebAPI\\LibraryWebAPI.csproj|solutionrelative:librarywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\Migrations\\20260924111820_initialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryWebAPI\\Migrations\\20260924111820_initialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\Migrations\\20260924111615_initialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryWebAPI\\Migrations\\20260924111615_initialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398E2FF9-337C-4E24-BB95-197BB493934A}|LibraryWebAPI\\LibraryWebAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\librarywebapi\\librarywebapi\\controllers\\borrowrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398E2FF9-337C-4E24-BB95-197BB493934A}|LibraryWebAPI\\LibraryWebAPI.csproj|solutionrelative:librarywebapi\\controllers\\borrowrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398E2FF9-337C-4E24-BB95-197BB493934A}|LibraryWebAPI\\LibraryWebAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\librarywebapi\\librarywebapi\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398E2FF9-337C-4E24-BB95-197BB493934A}|LibraryWebAPI\\LibraryWebAPI.csproj|solutionrelative:librarywebapi\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398E2FF9-337C-4E24-BB95-197BB493934A}|LibraryWebAPI\\LibraryWebAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\librarywebapi\\librarywebapi\\migrations\\20260924113026_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398E2FF9-337C-4E24-BB95-197BB493934A}|LibraryWebAPI\\LibraryWebAPI.csproj|solutionrelative:librarywebapi\\migrations\\20260924113026_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260924113026_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\Migrations\\20260924113026_Init.cs",
+              "RelativeDocumentMoniker": "LibraryWebAPI\\Migrations\\20260924113026_Init.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\Migrations\\20260924113026_Init.cs",
+              "RelativeToolTip": "LibraryWebAPI\\Migrations\\20260924113026_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T11:30:26.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BorrowRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\Models\\BorrowRecord.cs",
+              "RelativeDocumentMoniker": "LibraryWebAPI\\Models\\BorrowRecord.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\Models\\BorrowRecord.cs",
+              "RelativeToolTip": "LibraryWebAPI\\Models\\BorrowRecord.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T08:25:55.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataBaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\DBMODEL\\DataBaseContext.cs",
+              "RelativeDocumentMoniker": "LibraryWebAPI\\DBMODEL\\DataBaseContext.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\DBMODEL\\DataBaseContext.cs",
+              "RelativeToolTip": "LibraryWebAPI\\DBMODEL\\DataBaseContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T08:42:41.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "LibraryWebAPI\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\Models\\Category.cs",
+              "RelativeToolTip": "LibraryWebAPI\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T08:25:06.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "LibraryWebAPI\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\Models\\Member.cs",
+              "RelativeToolTip": "LibraryWebAPI\\Models\\Member.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T08:25:43.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryWebAPI\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryWebAPI\\Models\\Book.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T08:25:24.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BooksDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\DTOs\\BooksDTO.cs",
+              "RelativeDocumentMoniker": "LibraryWebAPI\\DTOs\\BooksDTO.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\DTOs\\BooksDTO.cs",
+              "RelativeToolTip": "LibraryWebAPI\\DTOs\\BooksDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T11:06:16.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryWebAPI\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryWebAPI\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:59:01.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "LibraryWebAPI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "LibraryWebAPI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:59:19.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\Program.cs",
+              "RelativeToolTip": "LibraryWebAPI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T09:35:09.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260924111820_initialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\Migrations\\20260924111820_initialMigration.cs",
+              "RelativeDocumentMoniker": "LibraryWebAPI\\Migrations\\20260924111820_initialMigration.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\Migrations\\20260924111820_initialMigration.cs",
+              "RelativeToolTip": "LibraryWebAPI\\Migrations\\20260924111820_initialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T11:18:20.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260924111615_initialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\Migrations\\20260924111615_initialMigration.cs",
+              "RelativeDocumentMoniker": "LibraryWebAPI\\Migrations\\20260924111615_initialMigration.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\Migrations\\20260924111615_initialMigration.cs",
+              "RelativeToolTip": "LibraryWebAPI\\Migrations\\20260924111615_initialMigration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T11:16:16.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BorrowRecordsController.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\Controllers\\BorrowRecordsController.cs",
+              "RelativeDocumentMoniker": "LibraryWebAPI\\Controllers\\BorrowRecordsController.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\Controllers\\BorrowRecordsController.cs",
+              "RelativeToolTip": "LibraryWebAPI\\Controllers\\BorrowRecordsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:59:48.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "LibraryWebAPI\\Controllers\\MembersController.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\LibraryWebAPI\\LibraryWebAPI\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "LibraryWebAPI\\Controllers\\MembersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:59:34.286Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

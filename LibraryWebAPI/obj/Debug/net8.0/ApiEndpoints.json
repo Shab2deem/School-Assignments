@@ -1,0 +1,39 @@
+[
+  {
+    "ContainingType": "LibraryWebAPI.Controllers.BooksController",
+    "Method": "GetAllBooksBetween",
+    "RelativePath": "api/Books/price-between",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "min",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "max",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibraryWebAPI.Controllers.BooksController",
+    "Method": "Get",
+    "RelativePath": "api/Books/price-greater-than/{price}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "price",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
